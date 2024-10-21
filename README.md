@@ -1,4 +1,4 @@
-# Proyecto: Gestión de Préstamos de Libros
+# Proyecto: Préstamos de Libros
 
 Este proyecto es una aplicación móvil desarrollada en Android utilizando **Kotlin** y **Jetpack Compose**. La aplicación permite gestionar los préstamos de libros en una biblioteca, incluyendo el registro, modificación, y eliminación de los préstamos. Los datos están organizados por filas, mostrando información detallada de cada préstamo.
 
